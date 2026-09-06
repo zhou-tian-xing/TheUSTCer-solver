@@ -1,0 +1,1 @@
+g++ -shared -O3 -std=c++17 -o solver.dll solver.cpp
