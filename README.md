@@ -27,7 +27,7 @@ eyJ2IjoxLCJ3Ijo2LCJoIjo2LCJzaWduIjpbW1tbMCwwXSxbMCwxXSxbMCwwXV0sW1swLDZdLFswLDBd
 }
 ```
 对应的题目是：
-![对应的题目](.\example.png)
+![对应的题目](https://github.com/zhou-tian-xing/TheUSTCer-solver/blob/main/example.png)
 
 因此采用python+base64+json即可轻松实现数据读入。
 
